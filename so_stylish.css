@@ -2,15 +2,30 @@ body {
   padding: 20px;
 }
 
+div {
+  font-size: 20pt;
+  font-weight: 400;
+  padding-left: 5px;
+}
+
+li {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
 ul {
   font-size: 18pt;
   list-style-type: none;
   padding-top: 20px;
 }
 
-li {
-  font-weight: 700;
-  margin-bottom: 20px;
+.fa {
+  color: #1DB954;
+  font-size: 22pt;
+}
+
+.archive-header {
+  padding-left: 32px;
 }
 
 .spotify {
@@ -21,17 +36,6 @@ li {
   width: 100%;
 }
 
-.fa {
-  color: #1DB954;
-  font-size: 22pt;
-}
-
-div {
-  font-size: 20pt;
-  font-weight: 400;
-  padding-left: 5px;
-}
- 
 .time {
   font-size: 12pt;
   vertical-align: middle;
